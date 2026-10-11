@@ -9,7 +9,7 @@ Proyecto del curso Principios y Tecnologías de IA (PTIA), Escuela Colombiana de
 ## Estado del proyecto
 
 - [x] Prototipo de interfaz navegable: https://follow-stuff-35196601.figma.site
-- [ ] Primer avance del pipeline: lectura del PDF, fragmentación, indexación en ChromaDB y recuperación de los fragmentos más cercanos a un tema (`notebooks/`)
+- [x] Primer avance del pipeline: lectura del PDF, fragmentación, indexación en ChromaDB y recuperación de los fragmentos más cercanos a un tema (`notebooks/`)
 - [ ] Generación de preguntas con LLM (Hito 3)
 - [ ] Módulo adaptativo de dificultad (Hito 3)
 - [ ] MVP funcional con interfaz en Streamlit (Hito 3)
@@ -33,3 +33,6 @@ Python · pypdf · sentence-transformers · ChromaDB · API de LLM con capa grat
 ## Configuración
 
 Las claves de API van en un archivo `.env` local, que no se sube al repositorio.
+
+## Enlace al Jupyter Notebook: https://colab.research.google.com/drive/1GC043I-fdAcmLxCWPo-49ecgF6kOufa0?usp=sharing
+
